@@ -28,7 +28,7 @@ This repository contains my completed tasks for the Codveda Technologies Data An
 ---
 
 ## 🛠️ Tools Used
-* Python 3.13
+* Python
 * Pandas & NumPy
 * Matplotlib & Seaborn
 * Scikit-Learn
