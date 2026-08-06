@@ -25,6 +25,20 @@ This repository contains my completed tasks for the Codveda Technologies Data An
   * Applied the **Elbow Method** to identify $k = 3$ as the optimal number of clusters.
   * Plotted 2D cluster scatter plots complete with centroid markers (`X`).
 
+  ---
+
+🔴 Level 3: Advanced level
+
+* Task 1: Predictive Modeling (`level_3 predictive modelling (task 1).ipynb`)
+  * Merged and preprocessed telecom customer churn datasets (`churn-bigml-80.csv`, `churn-bigml-20.csv`).
+  * Engineered features using One-Hot Encoding and scaled numerical features with `StandardScaler`.
+  * Optimized model parameters using `GridSearchCV` and saved confusion matrix visualization (`churn_confusion_matrix.png`).
+
+* Task 3: Sentiment Analysis (`level_3 sentiment analysis (task 3).ipynb`)
+  * Preprocessed raw text from `3) Sentiment dataset.csv` using NLTK for regex cleaning, tokenization, stopword removal, and lemmatization.
+  * Extracted text polarity scores and assigned sentiment classes using `TextBlob`.
+  * Visualized class distribution (`sentiment_distribution.png`) and text frequency metrics with WordCloud (`sentiment_wordcloud.png`).
+
 ---
 
 ## 🛠️ Tools Used
